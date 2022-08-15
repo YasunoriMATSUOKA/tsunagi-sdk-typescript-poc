@@ -1,1 +1,3 @@
-export * from './api';
+export function helloWorld(): void {
+  console.log('Hello world!');
+}

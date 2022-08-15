@@ -1,3 +1,3 @@
-import * as symbolSdkOpenAPIGeneratorTypeScriptFetch from '.';
+import * as tsunagiSdkTypeScript from '.';
 
-(window as any).symbolSdkOpenAPIGeneratorTypeScriptFetch = symbolSdkOpenAPIGeneratorTypeScriptFetch;
+(window as any).tsunagiSdkTypeScript = tsunagiSdkTypeScript;
